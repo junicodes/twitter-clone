@@ -1,0 +1,5 @@
+
+import {
+  asNexusMethod,
+} from 'nexus'
+
